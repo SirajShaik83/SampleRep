@@ -1,5 +1,5 @@
 First Sample Line.
-Third Sample Line.
+Fourth Sample Line.
 <<<<<<< HEAD
 $$$$$$$$$$$$$$$$$$$$$
 =======
