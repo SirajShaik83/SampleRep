@@ -4,4 +4,4 @@ This is a sample repository
 
 This is a sample line.
 
-This is master branch.
+This is another branch.
