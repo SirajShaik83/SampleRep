@@ -1,4 +1,8 @@
 First Sample Line.
 Third Sample Line.
+<<<<<<< HEAD
 $$$$$$$$$$$$$$$$$$$$$
+=======
+#########################
+>>>>>>> d497c1695ef773e5a1dc7a689aeba7038eceb69a
 
