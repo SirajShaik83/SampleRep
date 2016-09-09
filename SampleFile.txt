@@ -1,1 +1,2 @@
-Sample Line.
+First Sample Line.
+Second Sample Line.
